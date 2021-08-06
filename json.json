@@ -1,32 +1,32 @@
 [
     {
         "nombre": "Medialunas",
-        "precio": 100,
+        "precio": "$100",
         "descripcion": "Paris"
     },
     {
         "nombre": "Bizcochos",
-        "precio": 150,
+        "precio": "$150",
         "descripcion": "Paris"
     },
     {
         "nombre": "Combo Cafe Medialunas",
-        "precio": 200,
+        "precio": "$200",
         "descripcion": "Paris"
     },
     {
         "nombre": "Combo Cafe Bizcochos",
-        "precio": 250,
+        "precio": "$250",
         "descripcion": "Paris"
     },
     {
         "nombre": "Cafe solo",
-        "precio": 100,
+        "precio": "$100",
         "descripcion": "Paris"
     },
     {
         "nombre": "kk",
-        "precio": 10,
+        "precio": "$10",
         "descripcion": "Paris"
     }
 ]
