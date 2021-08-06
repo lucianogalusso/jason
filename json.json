@@ -2,31 +2,31 @@
     {
         "nombre": "Medialunas",
         "precio": "$100",
-        "descripcion": "Paris"
+        "descripcion": "Unas buenas Medialunas para el desayuno"
     },
     {
         "nombre": "Bizcochos",
         "precio": "$150",
-        "descripcion": "Paris"
+        "descripcion": "Unos buenos Bizcochos para el desayuno"
     },
     {
         "nombre": "Combo Cafe Medialunas",
         "precio": "$200",
-        "descripcion": "Paris"
+        "descripcion": "Un buen combo de cafecito y Medialunas"
     },
     {
         "nombre": "Combo Cafe Bizcochos",
         "precio": "$250",
-        "descripcion": "Paris"
+        "descripcion": "Un buen combo de cafecito y Bizcochos"
     },
     {
         "nombre": "Cafe solo",
         "precio": "$100",
-        "descripcion": "Paris"
+        "descripcion": "Solo un cafecito"
     },
     {
-        "nombre": "kk",
+        "nombre": "Un abrazo",
         "precio": "$10",
-        "descripcion": "Paris"
+        "descripcion": "Un abrazo"
     }
 ]
